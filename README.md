@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flash-Chat-App
 1. Introduction:
 Platform to engage in real-time communication.
